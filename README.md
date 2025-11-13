@@ -42,4 +42,4 @@ The app is written in the NodeJS environment. Once the user navigates through th
 The user interface is an HTML5 document served to any device that connects to the host. The interface is minimal but is sending the live position of the cursor via XTTP every time the cursor is moved.
 
 ## Security ⚠️
-Fremote makes no attempts to secure ports it opens or encrypt data that is sent through those ports. The application is intended to be used on a trusted WiFi network and should not be used in public.
+Fremote makes no attempts to secure ports it opens or encrypt data that is sent through those ports. The application is for education purposes only and intended to be used on a trusted WiFi network and should not be used in public.
